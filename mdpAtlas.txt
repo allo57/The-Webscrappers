@@ -1,1 +1,3 @@
 xIUP91EXb09rMkMQ mot de pass atlas
+
+mongodb+srv://williamlauzon_db_user:<xIUP91EXb09rMkMQ>@the-webscrappers.avw0kwh.mongodb.net/?retryWrites=true&w=majority&appName=The-WebScrappers
